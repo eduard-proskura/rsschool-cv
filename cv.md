@@ -28,10 +28,15 @@ alert("Hello, world!")
 
 ## Education
 
+I graduated from Bryukhovetsky agrarian college, specialty: Applied Computer Science (by branch).</br>
+I always try to develop my skills and knowledge. I study different information in open sources, as well as watching videos of various IT-bloggers.</br>
+I study various courses on platforms: Udemy, Stepik.
 
 
 ## Experience
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur eius in labore quidem, sequi suscipit!
+> At the moment, unfortunately, I have no commercial experience in developing websites and apps for large audiences. I have tried many different areas: I worked as a system administrator at school, I was a graphic designer...</br> But in the end I was able to understand what my soul really lies in: code. That feeling, when you could spend hours and hours thinking about how to implement a particular function, going through all the trouble of implementing a feature and realizing - oh yes, it works!
 
 ## Languages
+At the moment I am learning a little bit of English because it is very important in my future work, as well as in general as a personal development and because English is cool!
+My main language is Russian. 
